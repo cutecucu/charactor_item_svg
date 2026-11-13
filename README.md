@@ -1,0 +1,1 @@
+# charactor_item_svg
